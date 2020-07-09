@@ -1,2 +1,3 @@
 Ð?n c? con kh? cung hi?u du?c l?nh Git
 tim ai do khac di khong phai la anh
+pull: L?y n?i dung c?a remote repository
